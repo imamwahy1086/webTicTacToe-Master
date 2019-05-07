@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue May 07 05:04:29 ICT 2019
+org.eclipse.jst.j2ee.server\:TicTacToe=E\:\\imam\\sts\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\WebTicTacToe\\WEB-INF\\lib\\tictactoe-1.0-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:WebTicTacToe=E\:\\imam\\sts\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\WebTicTacToe
